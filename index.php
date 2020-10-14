@@ -6,5 +6,6 @@
 </HEAD>
 <BODY>
     <H1> GITHUB TUTORIAL </H1>
+    <H2> Working with GITBASH</H2>
 </BODY>
 </HTML>
