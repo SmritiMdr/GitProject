@@ -6,7 +6,7 @@
 </HEAD>
 <BODY>
     <H1> GITHUB TUTORIAL </H1>
-    <H2> Working with GITBASH</H2>
+    <H2> WORKING WITH GITBASH</H2>
     <H3> CONNECTING TO GITHUB</H3> 
 </BODY>
 </HTML>
